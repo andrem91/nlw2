@@ -171,13 +171,13 @@
         margin-left: 16px;
     }
 
-    .teacher-item footer button {
+    .teacher-item footer .button {
         width: 245px;
         font-size: 16px;
         justify-content: center;
     }
 
-    .teacher-item footer button img {
+    .teacher-item footer .button img {
         margin-right: 16px;
     }
 }
